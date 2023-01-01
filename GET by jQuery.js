@@ -1,3 +1,11 @@
+// Html part 
+
+            <label for="country">Country</label>
+            <input type="text" id="country" name="country">
+            <button type="submit" name="button1" value="button1" id="button1" class="btn ">Click me</button>
+
+
+// API call in jQuery 
 <script>
     jQuery(document).ready(function() {
         // Get value on button click and show alert
